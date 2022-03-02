@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@100&family=Source+Sans+Pro:wght@300&display=swap');
+.container {
+  background: url("../img/background--1.png") 0px 0px no-repeat, url("../img/background--2.png") 0px 0px no-repeat;
+  font-family: 'Montserrat', sans-serif;
+}
+.container__box {
+  max-width: 1170px;
+  margin: 0 auto;
+}
